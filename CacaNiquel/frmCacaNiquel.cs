@@ -52,7 +52,7 @@ namespace CacaNiquel
             }
             else
             {
-                // atingiu a condição de término
+                
                 tmrNiquel.Enabled = false;
                 /* MessageBox.Show("Parabéns, você ganhou no Tigrinho!!! \n\n" +
                                "sequencia: " + niquel1.ToString() + " - " +
